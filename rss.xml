@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[GridLife]]></title>
-        <description><![CDATA[GridLife]]></description>
+        <title><![CDATA[Grid Life]]></title>
+        <description><![CDATA[Grid Life]]></description>
         <link>https://thegrid.ai/gridlife/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 16:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 20:45:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridlife/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Gold | Scamalot Episode #1]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/gridlife/gold-or-scamalot-episode-1/index.html</link>
             <guid isPermaLink="false">8abf608b-388c-4895-9a0c-e9d578d6079c</guid>
             <pubDate>Mon, 18 Jul 2016 16:22:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bokeh]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c13d4b6-ab6d-4297-a18d-bce11130c606.jpg">]]></description>
+            <link>https://thegrid.ai/gridlife/bokeh/index.html</link>
+            <guid isPermaLink="false">7a0def08-c622-4c8c-ac43-e32daaa8aa07</guid>
+            <pubDate>Mon, 18 Jul 2016 20:44:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Poem | Scamalot Episode #2]]></title>
