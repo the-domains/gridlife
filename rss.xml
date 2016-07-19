@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GridLife]]></title>
+        <description><![CDATA[GridLife]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jul 2016 16:22:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Novel | Scamalot Episode #5]]></title>
+            <description><![CDATA[<article><h1>Novel | Scamalot Episode #5</h1><p>An email scammer hits an unexpected plot twist and gets pricelessly frustrated. 'Scamalot' is a new weekly series from Mashable! Subscribe for new episodes every Friday: http://on.mash.to/subscribe Watch more episodes: http://on.mash.to/ScamalotPlaylist Based on the book "Dot Con" by James Veitch.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c6351855bc95428096a34945a81069d4/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F-pO_mlZDlFo%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=-pO_mlZDlFo&amp;index=2&amp;list=PLSKUhDnoJjYmeW6nNasZSaVAGh4u91pEk</link>
+            <guid isPermaLink="false">91781a27-4c05-4311-a936-c32bfe05be87</guid>
+            <pubDate>Mon, 18 Jul 2016 16:22:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
