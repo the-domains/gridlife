@@ -1,19 +1,4 @@
-name: GridLife
-favicon: null
-layout_spectrum: 0.8871722638141364
 typography_spectrum: 0.6667264346033335
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -21,8 +6,28 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.16112040542066097
-  lightness: 0.13292621821165085
-  saturation: 0.5795231976080686
-  rhythmicContrast: 0.6658776407130063
+  brandStrength: 0
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.57444
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: GridLife
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: 'Novel | Scamalot Episode #5'
+    id: 91781a27-4c05-4311-a936-c32bfe05be87
+    type: content
+favicon: null
+title: Grid Life
 purpose: []
