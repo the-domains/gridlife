@@ -72,16 +72,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: >-
-  https://www.youtube.com/watch?v=-pO_mlZDlFo&index=2&list=PLSKUhDnoJjYmeW6nNasZSaVAGh4u91pEk
 title: 'Novel | Scamalot Episode #5'
-datePublished: '2016-07-18T16:22:27.342Z'
-dateModified: '2016-07-18T16:19:50.439Z'
-starred: false
+datePublished: '2016-08-03T13:08:55.670Z'
+dateModified: '2016-08-03T13:08:55.208Z'
 sourcePath: _posts/2016-07-18-novel-or-scamalot-episode-5.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+via: {}
+starred: false
+url: novel-or-scamalot-episode-5/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
